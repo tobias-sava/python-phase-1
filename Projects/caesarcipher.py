@@ -9,9 +9,9 @@ print(START_ART)
 
 # creating cypher function 
 
-    # encodes or decodes a text using a caesar cipher
+# encodes or decodes a text using a caesar cipher
 
-    # caesar ciphers can be easily decoded by ANYONE!
+# caesar ciphers can be easily decoded by ANYONE!
 
 def caesar_cipher(text, shift, mode='encode'):
     result = []
