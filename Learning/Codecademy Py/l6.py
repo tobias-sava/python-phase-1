@@ -37,7 +37,7 @@ three_cheapest = pizza_and_prices[:3]
 
 print(three_cheapest)
 
-# boring but thats the process i guess
+# boring
 
 
 
