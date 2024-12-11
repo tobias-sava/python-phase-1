@@ -32,7 +32,7 @@ def main():
         elif user_choice == '2':
             print(tasks)
             task_remove = int(input("Enter task number to remove: "))
-            task.pop([task_remove])
+            tasks.pop([task_remove])
             print(f"Task {task_remove} has been removed.")
 
 # taking break this is not good
